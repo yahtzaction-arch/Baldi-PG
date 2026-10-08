@@ -1,0 +1,8 @@
+{
+  "name": "com.yahtz.baldipg",
+  "version": "1.2.0",
+  "displayName": "Yahtz - Baldi PG",
+  "description": "Baldi PG editor toolkit for building Baldi's Basics-style levels.",
+  "unity": "2021.3",
+  "author": { "name": "Yahtz" }
+}
